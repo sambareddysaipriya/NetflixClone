@@ -110,6 +110,9 @@
 .tv{
     width: 100%;
     display:flex;
+    background-image: url('https://play-lh.googleusercontent.com/1JkEEwGcVIh4DzMjfuLTeHvfZ6KXT6SI8Ulxn2_ZCmH-rP_gC0EfsUMuHkG1TyEvKXA=w526-h296-rw');
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 .third{
     padding-top: 70px;
@@ -133,6 +136,14 @@
     display: flex;
     color: white;
     justify-content: center;
+}
+.tv1{
+    width: 100%;
+    display:flex;
+    background-image: url('https://www.cleveland.com/resizer/RuXQvZpLQQY-P78pwc_qIPPnmfc=/arc-anglerfish-arc2-prod-advancelocal/public/TNCX2NAR4VDFDBWHE3P7FVHKNI.jpeg');
+    background-size: 62%;
+    background-position: 100px 50px;
+    background-repeat: no-repeat;
 }
 .five{
     padding-top: 70px;
